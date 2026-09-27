@@ -1,0 +1,339 @@
+EXTRACTION REPORT
+================================================================================
+Total blocks parsed:     202
+Duplicate blocks:        122
+Unique blocks written:   80
+
+Per-folder counts:
+  _unsorted                                    1 files
+  phase_0_environment                          2 files
+  phase_1_math_engine                         22 files
+  phase_2_classical_ml                         4 files
+  phase_3_neural_networks                     11 files
+  phase_4_nlp_and_sequences                   10 files
+  phase_5_transformer                         10 files
+  phase_6_mini_gpt                             8 files
+  phase_7_ai_engineer_toolkit                  9 files
+  phase_8_capstone                             3 files
+
+ALL UNIQUE BLOCKS (in transcript order):
+--------------------------------------------------------------------------------
+L  274-L  282 (   7L, lang=bash      ) phase=None -> phase_0_environment/01_mac_m3_pro_setup_commands.sh
+   header : #### Step-by-Step Setup Guide
+   title  : Step-by-Step Setup Guide
+
+L  298-L  331 (  32L, lang=python    ) phase=None -> phase_0_environment/01_mac_m3_pro_setup_commands_v2.py
+   header : #### Step-by-Step Setup Guide
+   title  : Step-by-Step Setup Guide
+
+L  370-L  386 (  15L, lang=python    ) phase=None -> phase_1_math_engine/01_numpy_salesforce_analogy.py
+   header : #### 🔗 Salesforce Analogy
+   title  : 🔗 Salesforce Analogy
+
+L  391-L  409 (  17L, lang=python    ) phase=None -> phase_1_math_engine/02_core_numpy_concepts.py
+   header : #### Core NumPy Concepts You MUST Master
+   title  : Core NumPy Concepts You MUST Master
+
+L  412-L  428 (  15L, lang=python    ) phase=None -> phase_1_math_engine/02_core_numpy_concepts_v2.py
+   header : #### Core NumPy Concepts You MUST Master
+   title  : Core NumPy Concepts You MUST Master
+
+L  431-L  459 (  27L, lang=python    ) phase=None -> phase_1_math_engine/02_core_numpy_concepts_v3.py
+   header : #### Core NumPy Concepts You MUST Master
+   title  : Core NumPy Concepts You MUST Master
+
+L  462-L  481 (  18L, lang=python    ) phase=None -> phase_1_math_engine/02_core_numpy_concepts_v4.py
+   header : #### Core NumPy Concepts You MUST Master
+   title  : Core NumPy Concepts You MUST Master
+
+L  484-L  504 (  19L, lang=python    ) phase=None -> phase_1_math_engine/02_core_numpy_concepts_v5.py
+   header : #### Core NumPy Concepts You MUST Master
+   title  : Core NumPy Concepts You MUST Master
+
+L  517-L  624 ( 106L, lang=python    ) phase=None -> phase_1_math_engine/06_matrix_operations_library_assignment.py
+   header : #### 🏗️ Build Assignment: Matrix Operations Library
+   title  : Your first AI-related code: Implement matrix operations from scratch!
+
+L  642-L  686 (  43L, lang=python    ) phase=None -> phase_1_math_engine/07_python_patterns_for_ai.py
+   header : #### Key Python Patterns Used in AI
+   title  : Key Python Patterns Used in AI
+
+L  689-L  711 (  21L, lang=python    ) phase=None -> phase_1_math_engine/07_python_patterns_for_ai_v2.py
+   header : #### Key Python Patterns Used in AI
+   title  : Key Python Patterns Used in AI
+
+L  714-L  733 (  18L, lang=python    ) phase=None -> phase_1_math_engine/07_python_patterns_for_ai_v3.py
+   header : #### Key Python Patterns Used in AI
+   title  : Key Python Patterns Used in AI
+
+L  736-L  770 (  33L, lang=python    ) phase=None -> phase_1_math_engine/07_python_patterns_for_ai_v4.py
+   header : #### Key Python Patterns Used in AI
+   title  : Key Python Patterns Used in AI
+
+L  808-L  830 (  21L, lang=python    ) phase=None -> phase_1_math_engine/08_vectors_intro.py
+   header : #### Theory: What is a Vector?
+   title  : Theory: What is a Vector?
+
+L  834-L  876 (  41L, lang=python    ) phase=None -> phase_1_math_engine/09_vector_operations.py
+   header : #### Key Vector Operations
+   title  : Key Vector Operations
+
+L  880-L  920 (  39L, lang=python    ) phase=None -> phase_1_math_engine/10_visualizing_vectors.py
+   header : #### Visualizing Vectors
+   title  : Visualizing Vectors
+
+L  924-L 1040 ( 115L, lang=python    ) phase=None -> phase_1_math_engine/11_customer_similarity_engine.py
+   header : #### 🏗️ Build Assignment: Similarity Calculator
+   title  : Build a customer similarity calculator using vectors.
+
+L 1060-L 1100 (  39L, lang=python    ) phase=None -> _unsorted/misc.py
+   header : #### Core Concepts
+   title  : Core Concepts
+
+L 1104-L 1147 (  42L, lang=python    ) phase=None -> phase_1_math_engine/13_layer_as_matmul.py
+   header : #### Neural Network Connection
+   title  : In neural networks, each layer performs: output = activation(input @ weights + bias)
+
+L 1151-L 1195 (  43L, lang=python    ) phase=None -> phase_1_math_engine/14_matrix_properties.py
+   header : #### Matrix Properties Important for AI
+   title  : Matrix Properties Important for AI
+
+L 1207-L 1299 (  91L, lang=python    ) phase=None -> phase_1_math_engine/15_matrix_transformation_visualizer.py
+   header : #### 🏗️ Build Assignment: Transformation Visualizer
+   title  : Build a visual tool to understand how matrices transform space.
+
+L 1319-L 1375 (  55L, lang=python    ) phase=None -> phase_1_math_engine/16_derivatives_intro.py
+   header : #### Derivatives: The Direction of Change
+   title  : Derivatives: The Direction of Change
+
+L 1379-L 1486 ( 106L, lang=python    ) phase=None -> phase_1_math_engine/18_gradient_descent_from_scratch.py
+   header : #### Gradient Descent: How AI Learns
+   title  : GRADIENT DESCENT: The Algorithm That Powers All of AI
+
+L 1490-L 1572 (  81L, lang=python    ) phase=None -> phase_1_math_engine/19_chain_rule.py
+   header : #### The Chain Rule: Backpropagation Foundation
+   title  : THE CHAIN RULE: How Backpropagation Works
+
+L 1585-L 1671 (  85L, lang=python    ) phase=None -> phase_1_math_engine/18_gradient_descent_from_scratch_v2.py
+   header : #### 🏗️ Build Assignment: Gradient Descent for 2D
+   title  : Extend gradient descent to 2D - finding the minimum of a surface.
+
+L 1703-L 1812 ( 108L, lang=python    ) phase=None -> phase_2_classical_ml/01_ml_framework_overview.py
+   header : #### Mental Model: The ML Framework
+   title  : THE MACHINE LEARNING FRAMEWORK
+
+L 1816-L 1896 (  79L, lang=python    ) phase=None -> phase_2_classical_ml/02_types_of_ml.py
+   header : #### Types of Machine Learning
+   title  : THREE MAIN TYPES OF MACHINE LEARNING
+
+L 1915-L 2087 ( 171L, lang=python    ) phase=None -> phase_2_classical_ml/03_linear_regression_from_scratch.py
+   header : #### The Complete Implementation
+   title  : LINEAR REGRESSION FROM SCRATCH
+
+L 2104-L 2291 ( 186L, lang=python    ) phase=None -> phase_2_classical_ml/04_logistic_regression_from_scratch.py
+   header : #### The "Why"
+   title  : LOGISTIC REGRESSION: Classification
+
+L 2313-L 2516 ( 202L, lang=python    ) phase=None -> phase_3_neural_networks/01_single_neuron_from_scratch.py
+   header : ### Day 1-3: The Neuron - Building Block of AI
+   title  : THE NEURON: The Fundamental Unit of Neural Networks
+
+L 2524-L 2835 ( 310L, lang=python    ) phase=None -> phase_3_neural_networks/02_mlp_from_scratch.py
+   header : ### Day 4-7: Multi-Layer Neural Network from Scratch
+   title  : MULTI-LAYER NEURAL NETWORK FROM SCRATCH
+
+L 5311-L 5545 ( 233L, lang=python    ) phase=2 -> phase_3_neural_networks/03_pytorch_tensors_and_mps.py
+   header : #### CODE: PyTorch Basics and MPS Setup
+   title  : PYTORCH FUNDAMENTALS
+
+L 5559-L 5759 ( 199L, lang=python    ) phase=2 -> phase_3_neural_networks/04_nn_module_pattern.py
+   header : #### CODE: Neural Network with nn.Module
+   title  : NEURAL NETWORKS WITH nn.Module
+
+L 5767-L 6080 ( 312L, lang=python    ) phase=2 -> phase_3_neural_networks/05_circle_classification.py
+   header : #### CODE: Circle Classification with PyTorch
+   title  : COMPLETE CLASSIFIER EXAMPLE
+
+L 6129-L 6223 (  93L, lang=python    ) phase=2 -> phase_3_neural_networks/06_mnist_data_loading.py
+   header : #### CODE: MNIST Data Loading and Exploration
+   title  : MNIST DATASET LOADING
+
+L 6231-L 6553 ( 321L, lang=python    ) phase=2 -> phase_3_neural_networks/07_mnist_classifier.py
+   header : #### CODE: Complete MNIST Classifier
+   title  : MNIST DIGIT CLASSIFIER
+
+L 6561-L 6812 ( 250L, lang=python    ) phase=2 -> phase_3_neural_networks/08_data_augmentation.py
+   header : #### CODE: Improved Training with Augmentation
+   title  : DATA AUGMENTATION AND REGULARIZATION
+
+L 6864-L 7066 ( 201L, lang=python    ) phase=2 -> phase_3_neural_networks/09_understanding_convolutions.py
+   header : #### CODE: Understanding Convolutions
+   title  : UNDERSTANDING CONVOLUTIONS
+
+L 7074-L 7363 ( 288L, lang=python    ) phase=2 -> phase_3_neural_networks/07_mnist_classifier_v2.py
+   header : #### CODE: Complete CNN Implementation
+   title  : CNN FOR MNIST CLASSIFICATION
+
+L 7406-L 7882 ( 475L, lang=python    ) phase=2 -> phase_3_neural_networks/11_batchnorm_dropout_optimizers.py
+   header : #### CODE: Modern Training Techniques
+   title  : MODERN TRAINING TECHNIQUES
+
+L10463-L10746 ( 282L, lang=python    ) phase=3 -> phase_4_nlp_and_sequences/02_text_preprocessing_basics.py
+   header : #### CODE: Text Preprocessing and Tokenization
+   title  : TEXT PREPROCESSING AND TOKENIZATION
+
+L10765-L11246 ( 480L, lang=python    ) phase=3 -> phase_4_nlp_and_sequences/03_word2vec_skipgram.py
+   header : #### CODE: Word2Vec Implementation
+   title  : WORD2VEC FROM SCRATCH
+
+L11254-L11516 ( 261L, lang=python    ) phase=3 -> phase_4_nlp_and_sequences/04_glove_pretrained_embeddings.py
+   header : #### CODE: Loading and Using GloVe
+   title  : USING PRE-TRAINED EMBEDDINGS (GloVe)
+
+L11574-L11825 ( 250L, lang=python    ) phase=3 -> phase_4_nlp_and_sequences/05_rnn_from_scratch.py
+   header : #### CODE: RNN from Scratch
+   title  : RECURRENT NEURAL NETWORKS FROM SCRATCH
+
+L11833-L12153 ( 319L, lang=python    ) phase=3 -> phase_4_nlp_and_sequences/06_char_rnn_text_generator.py
+   header : #### CODE: Text Generator RNN
+   title  : CHARACTER-LEVEL TEXT GENERATION
+
+L12161-L12367 ( 205L, lang=python    ) phase=3 -> phase_4_nlp_and_sequences/07_vanishing_gradient_problem.py
+   header : #### CODE: Understanding Vanishing Gradients
+   title  : VANISHING GRADIENT PROBLEM
+
+L12409-L12745 ( 335L, lang=python    ) phase=3 -> phase_4_nlp_and_sequences/08_lstm_from_scratch.py
+   header : #### CODE: LSTM from Scratch
+   title  : LSTM (LONG SHORT-TERM MEMORY) FROM SCRATCH
+
+L12753-L13090 ( 336L, lang=python    ) phase=3 -> phase_4_nlp_and_sequences/09_lstm_sentiment_classifier.py
+   header : #### CODE: Sentiment Classifier with LSTM
+   title  : SENTIMENT CLASSIFICATION WITH LSTM
+
+L13132-L13537 ( 404L, lang=python    ) phase=3 -> phase_4_nlp_and_sequences/10_seq2seq_translation.py
+   header : #### CODE: Seq2Seq Model
+   title  : SEQUENCE-TO-SEQUENCE MODELS
+
+L13545-L13819 ( 273L, lang=python    ) phase=3 -> phase_4_nlp_and_sequences/11_attention_preview_bahdanau.py
+   header : #### CODE: The Bottleneck Problem and Attention Introduction
+   title  : THE ATTENTION MECHANISM PREVIEW
+
+L17185-L17565 ( 379L, lang=python    ) phase=4 -> phase_5_transformer/01_self_attention_from_scratch.py
+   header : #### CODE: Understanding Self-Attention
+   title  : SELF-ATTENTION FROM SCRATCH
+
+L17573-L17801 ( 227L, lang=python    ) phase=4 -> phase_5_transformer/02_attention_mechanics_deep_dive.py
+   header : #### CODE: Complete Attention Implementation with Visualization
+   title  : ATTENTION MECHANICS DEEP DIVE
+
+L17809-L18092 ( 282L, lang=python    ) phase=4 -> phase_5_transformer/03_production_ready_self_attention.py
+   header : #### CODE: Production-Ready Self-Attention
+   title  : PRODUCTION-READY SELF-ATTENTION
+
+L18146-L18379 ( 232L, lang=python    ) phase=4 -> phase_5_transformer/04_multi_head_attention.py
+   header : #### CODE: Multi-Head Attention Implementation
+   title  : MULTI-HEAD ATTENTION
+
+L18393-L18642 ( 248L, lang=python    ) phase=4 -> phase_5_transformer/05_positional_encoding.py
+   header : #### CODE: Positional Encoding Implementation
+   title  : POSITIONAL ENCODING
+
+L18650-L18923 ( 272L, lang=python    ) phase=4 -> phase_5_transformer/06_complete_attention_layer.py
+   header : #### CODE: Combining Everything
+   title  : COMPLETE ATTENTION LAYER
+
+L18965-L19197 ( 231L, lang=python    ) phase=4 -> phase_5_transformer/08_transformer_encoder.py
+   header : #### CODE: Complete Encoder Implementation
+   title  : TRANSFORMER ENCODER
+
+L19205-L19392 ( 186L, lang=python    ) phase=4 -> phase_5_transformer/09_transformer_decoder.py
+   header : #### CODE: Complete Decoder Implementation
+   title  : TRANSFORMER DECODER
+
+L19400-L19576 ( 175L, lang=python    ) phase=4 -> phase_5_transformer/10_complete_transformer_translation.py
+   header : #### CODE: Complete Transformer Implementation
+   title  : COMPLETE TRANSFORMER
+
+L19618-L19985 ( 366L, lang=python    ) phase=4 -> phase_5_transformer/11_train_transformer_pipeline.py
+   header : #### CODE: Complete Training Pipeline
+   title  : TRAINING A TRANSFORMER
+
+L22810-L23252 ( 441L, lang=python    ) phase=5 -> phase_6_mini_gpt/01_gpt_architecture_from_scratch.py
+   header : #### CODE: GPT Architecture
+   title  : GPT ARCHITECTURE FROM SCRATCH
+
+L23260-L23420 ( 159L, lang=python    ) phase=5 -> phase_6_mini_gpt/02_language_modeling_objective.py
+   header : #### CODE: Language Modeling Objective
+   title  : LANGUAGE MODELING OBJECTIVE
+
+L23428-L23761 ( 332L, lang=python    ) phase=5 -> phase_6_mini_gpt/03_gpt_training_infrastructure.py
+   header : #### CODE: GPT Training Infrastructure
+   title  : GPT TRAINING INFRASTRUCTURE
+
+L23803-L24079 ( 275L, lang=python    ) phase=5 -> phase_6_mini_gpt/04_bpe_tokenizer_from_scratch.py
+   header : #### CODE: Tokenization from Scratch
+   title  : TOKENIZATION FOR GPT
+
+L24087-L24318 ( 230L, lang=python    ) phase=5 -> phase_6_mini_gpt/05_dataset_preparation_for_gpt.py
+   header : #### CODE: Dataset Preparation
+   title  : PREPARING DATA FOR GPT TRAINING
+
+L24360-L24802 ( 441L, lang=python    ) phase=5 -> phase_6_mini_gpt/06_train_gpt_on_shakespeare.py
+   header : #### CODE: Train Your GPT
+   title  : TRAINING YOUR GPT ON SHAKESPEARE
+
+L24844-L25140 ( 295L, lang=python    ) phase=5 -> phase_6_mini_gpt/07_text_generation_and_sampling.py
+   header : #### CODE: Sampling Strategies
+   title  : TEXT GENERATION STRATEGIES
+
+L25148-L25358 ( 209L, lang=python    ) phase=5 -> phase_6_mini_gpt/08_complete_minigpt_package.py
+   header : #### CODE: Complete Mini-GPT Package
+   title  : COMPLETE MINI-GPT PACKAGE
+
+L28002-L28288 ( 285L, lang=python    ) phase=6 -> phase_7_ai_engineer_toolkit/01_finetune_gpt2_huggingface.py
+   header : #### CODE: Understanding Fine-Tuning
+   title  : FINE-TUNING PRE-TRAINED MODELS
+
+L28302-L28557 ( 254L, lang=python    ) phase=6 -> phase_7_ai_engineer_toolkit/02_lora_efficient_finetuning.py
+   header : #### CODE: LoRA Implementation
+   title  : LoRA (LOW-RANK ADAPTATION)
+
+L28599-L28957 ( 357L, lang=python    ) phase=6 -> phase_7_ai_engineer_toolkit/03_rlhf_three_stages.py
+   header : #### CODE: RLHF Concepts and Implementation
+   title  : RLHF (REINFORCEMENT LEARNING FROM HUMAN FEEDBACK)
+
+L28965-L29206 ( 240L, lang=python    ) phase=6 -> phase_7_ai_engineer_toolkit/04_rlhf_end_to_end_example.py
+   header : #### CODE: End-to-End RLHF Example
+   title  : SIMPLE RLHF IMPLEMENTATION
+
+L29248-L29573 ( 324L, lang=python    ) phase=6 -> phase_7_ai_engineer_toolkit/07_fastapi_serving.py
+   header : #### CODE: Model Serving API
+   title  : MODEL SERVING WITH FASTAPI
+
+L29581-L29613 (  31L, lang=dockerfile) phase=6 -> phase_7_ai_engineer_toolkit/08_docker_deployment.Dockerfile
+   header : #### CODE: Dockerfile and docker-compose
+   title  : CODE: Dockerfile and docker-compose
+
+L29615-L29649 (  33L, lang=yaml      ) phase=6 -> phase_7_ai_engineer_toolkit/08_docker_deployment_v2.yaml
+   header : #### CODE: Dockerfile and docker-compose
+   title  : CODE: Dockerfile and docker-compose
+
+L29662-L29698 (  35L, lang=python    ) phase=6 -> phase_7_ai_engineer_toolkit/07_fastapi_serving_v2.py
+   header : #### CODE: Dockerfile and docker-compose
+   title  : DEPLOYMENT COMMANDS
+
+L29706-L29943 ( 236L, lang=python    ) phase=6 -> phase_7_ai_engineer_toolkit/09_production_best_practices.py
+   header : #### CODE: Production Best Practices
+   title  : PRODUCTION BEST PRACTICES
+
+L29985-L30201 ( 215L, lang=python    ) phase=6 -> phase_8_capstone/01_portfolio_template.py
+   header : #### CODE: Portfolio Project Ideas
+   title  : AI ENGINEERING PORTFOLIO
+
+L30209-L30472 ( 262L, lang=python    ) phase=6 -> phase_8_capstone/02_interview_prep_guide.py
+   header : #### CODE: AI Interview Guide
+   title  : AI ENGINEERING INTERVIEW PREPARATION
+
+L30480-L30762 ( 281L, lang=python    ) phase=6 -> phase_8_capstone/03_career_roadmap.py
+   header : #### CODE: Career Roadmap
+   title  : AI ENGINEERING CAREER PATH

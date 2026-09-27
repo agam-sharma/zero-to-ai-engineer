@@ -1,0 +1,43 @@
+# Source: AI_Learning_Cursor lines 29615-29649
+# Original transcript phase: 6 - ADVANCED TOPICS & PORTFOLIO
+# Nearest header: #### CODE: Dockerfile and docker-compose
+# Title: CODE: Dockerfile and docker-compose
+#
+# This file was extracted automatically by reference_code/_extract_from_transcript.py
+# from the original Cursor session that produced this curriculum.
+# It is intended as REFERENCE / SOLUTION code: build your own version FIRST,
+# then diff your version against this one to find blind spots.
+
+# Save as: docker-compose.yml
+
+version: '3.8'
+
+services:
+  mini-gpt-api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./models:/app/models  # Mount model directory
+    environment:
+      - MODEL_PATH=/app/models/gpt_shakespeare
+      - DEVICE=cpu  # or 'mps' for Mac
+      - MAX_TOKENS=500
+      - RATE_LIMIT=60
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Optional: Add nginx for production
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - mini-gpt-api
+    restart: unless-stopped
