@@ -238,7 +238,7 @@ If you ask me to just write `cosine_similarity`, I'll decline and ask you a ques
 ## 8. Your first week, day by day
 
 ### Day 1 (2 hrs) — Environment
-Follow `curriculum/v1/Phase_0_Environment_and_Mindset_Setup.md`. Finish when this prints `True`:
+Follow `Phase_0_Environment_and_Mindset_Setup.md`. Finish when this prints `True`:
 
 ```bash
 python -c "import torch; print(torch.backends.mps.is_available())"

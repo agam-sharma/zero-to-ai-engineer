@@ -10,11 +10,20 @@
 | | |
 |---|---|
 | **Stage** | 0 — Setup, Baseline & the Contract |
-| **Module** | 0.1 — not started |
-| **Started** | *(fill on day one)* |
-| **Hours logged** | 0 / ~1,100 |
+| **Module** | 0.3 — Anki (0.1, 0.2 done) |
+| **Started** | 2026-09-27 |
+| **Hours logged** | 0 / ~1,100 *(0.1–0.2 time not logged)* |
 | **Pace target** | 15–20 hrs/week |
-| **Last session** | Curriculum built — 2026-09-27 |
+| **Last session** | Stage 0 status check — 2026-09-27 |
+
+### Stage 0 checklist
+
+- [x] 0.1 Environment — MPS `True` (base torch 2.7.0; `ai-mastery` torch 2.11.0); pytest/matplotlib/jupyterlab OK — 2026-09-27
+- [x] 0.2 Repo — public, pushed to `agam-sharma/zero-to-ai-engineer` — 2026-09-27
+- [ ] 0.3 Anki — app installed; `S1-math` deck + first 5 cards not yet made
+- [ ] 0.4 Journal + paper — `journal/2026-W40.md`; *Software 2.0* summary in `papers/week-00/`
+- [ ] 0.5 Baseline diagnostic
+- [ ] 0.6 Contract session
 
 ### Overall
 
@@ -39,10 +48,10 @@ CAPSTONE 2  CodeSage                [░░░░░░░░░░]
 
 ## Next session starts here
 
-**Do:** Stage 0, modules 0.1–0.2 — environment setup and the public repo.
+**Do:** Stage 0, modules 0.3–0.5: Anki deck, journal + *Software 2.0* summary, then the baseline diagnostic.
 
 **Claude's job next session:**
-1. Walk him through the conda + PyTorch MPS setup only if it fails; otherwise let him run it.
+1. Check the five `S1-math` cards against the 15-second rule.
 2. Have him run the baseline diagnostic (`00_Foundation_Assessment_Exercises.ipynb`) and log the score honestly below.
 3. Run the **contract session** (module 0.6) — agree the pace, the five gates, and what a Minimum Viable Week looks like. Write the agreed terms into this file.
 
@@ -113,4 +122,5 @@ Format: `Stage.Module — concept — G1 ✅ date · G2 ✅ date · G3 ✅ date 
 
 | Date | Stage.Module | Hrs | What happened |
 |---|---|---|---|
+| 2026-09-27 | 0.1–0.2 | — | Status check: env + repo verified done. Moved `HOW_TO_RUN_THIS.md` into `curriculum/`, added root `.gitignore`, untracked `.DS_Store`. |
 | 2026-09-27 | — | — | Curriculum v2 built. v1 reviewed: kept the learning system and sequencing, fixed the Phase 5/6 collision and week-numbering drift, rebuilt the math stage from clean, added nine missing topics. |
